@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+A loose collection of thoughts: Not a Bug
 ---
 
